@@ -1,0 +1,6 @@
+com\igeek\ebuy\manager\controller\ItemController.class
+com\igeek\ebuy\manager\controller\PageController.class
+com\igeek\ebuy\manager\controller\ContentController.class
+com\igeek\ebuy\manager\controller\ContenteCategoryController.class
+com\igeek\ebuy\manager\controller\PictuerController.class
+com\igeek\ebuy\manager\controller\ItemCatController.class

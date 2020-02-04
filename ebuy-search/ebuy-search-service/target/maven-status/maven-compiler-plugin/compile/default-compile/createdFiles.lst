@@ -1,0 +1,4 @@
+com\igeek\ebuy\search\mapper\SearchItemMapper.class
+com\igeek\ebuy\search\service\dao\SearchDao.class
+com\igeek\ebuy\search\listeners\ItemAddListener.class
+com\igeek\ebuy\search\service\impl\SearchServiceImpl.class

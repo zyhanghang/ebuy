@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ebuy-sso.iml" filepath="$PROJECT_DIR$/ebuy-sso.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ebuy-sso-interface/ebuy-sso-interface.iml" filepath="$PROJECT_DIR$/ebuy-sso-interface/ebuy-sso-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ebuy-sso-service/ebuy-sso-service.iml" filepath="$PROJECT_DIR$/ebuy-sso-service/ebuy-sso-service.iml" />
+    </modules>
+  </component>
+</project>

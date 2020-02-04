@@ -1,0 +1,6 @@
+192.168.31.2 - - [09/Apr/2019:13:53:42 +0800] "GET /cart/cart.html HTTP/1.0" 500 20046 http-bio-5090-exec-1 159
+192.168.31.2 - - [09/Apr/2019:13:53:46 +0800] "GET /cart/cart.html HTTP/1.0" 200 17947 http-bio-5090-exec-2 2186
+192.168.31.2 - - [09/Apr/2019:13:54:09 +0800] "GET /cart/add/155349597240510.html?num=2 HTTP/1.0" 200 18503 http-bio-5090-exec-3 238
+192.168.31.2 - - [09/Apr/2019:13:54:10 +0800] "GET /images/logo.jpg HTTP/1.0" 404 981 http-bio-5090-exec-4 1
+192.168.31.2 - - [09/Apr/2019:13:54:10 +0800] "GET /cart/cart.html HTTP/1.0" 200 19829 http-bio-5090-exec-5 12
+192.168.31.2 - - [09/Apr/2019:13:54:18 +0800] "GET /cart/cart.html HTTP/1.0" 200 19829 http-bio-5090-exec-6 13

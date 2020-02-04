@@ -1,0 +1,13 @@
+com\igeek\ebuy\manager\mapper\ContentCategoryExMapper.class
+com\igeek\ebuy\manager\mapper\ContentExMapper.class
+com\igeek\ebuy\manager\mapper\TbItemDescMapper.class
+com\igeek\ebuy\manager\mapper\TbOrderShippingMapper.class
+com\igeek\ebuy\manager\mapper\TbOrderMapper.class
+com\igeek\ebuy\manager\mapper\TbItemParamMapper.class
+com\igeek\ebuy\manager\mapper\TbContentCategoryMapper.class
+com\igeek\ebuy\manager\mapper\TbItemCatMapper.class
+com\igeek\ebuy\manager\mapper\TbItemParamItemMapper.class
+com\igeek\ebuy\manager\mapper\TbUserMapper.class
+com\igeek\ebuy\manager\mapper\TbContentMapper.class
+com\igeek\ebuy\manager\mapper\TbItemMapper.class
+com\igeek\ebuy\manager\mapper\TbOrderItemMapper.class
